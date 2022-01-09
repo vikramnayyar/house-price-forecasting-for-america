@@ -1,0 +1,48 @@
+get_data:
+    download_id: "1xCEbsurphuZ7iY6BCKm48W683ORgxMNg"
+    data: "../data/data.csv"
+    
+
+data_analysis:
+    data: "../data/clean_data.csv"    
+    
+    plot_prices:
+        title: "Sale Prices of Houses in Alabama"
+        xlabel: "Years"
+        ylabel: "House Prices"
+        
+    plot_density:
+        legend: "Prices"
+            
+
+prepare_data:
+    data: "../data/clean_data.csv"
+    
+    stationarity_test: 
+        title: "Rolling Mean and Standard Deviation" 
+
+    decompose_series:
+        title: "Series Decomposition of House Prices"
+        xlabel: "Years"
+        
+    split_data:
+        title: "Train-Test Split of House Price Series"
+        xlabel: "Years"
+        ylabel: "House Prices"
+    
+split_data:
+    data: "../data/prepared_data.csv"
+
+
+
+model_data:
+    train_data: "../data/train_data.csv"
+    test_data: "../data/test_data.csv"
+    
+    forecast:
+        title: 'House Price Forecast of Alabama'
+        xlabel: "Years"
+        ylabel: "House Prices"
+        
+    diagnose_arima:
+        title: 'ARIMA model Diagnosis'

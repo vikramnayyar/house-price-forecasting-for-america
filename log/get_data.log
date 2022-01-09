@@ -1,0 +1,772 @@
+[I 220109 11:04:40 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:40 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:40 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:40 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:40 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:40 get_data_util:15] Total NaNs:0
+[I 220109 11:04:40 get_data:60] Cleaned dataset for Alabama was saved successfully.
+    
+    
+     
+[I 220109 11:04:40 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:40 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:40 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:40 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:40 get_data_util:15] Total NaNs:0
+[I 220109 11:04:40 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:40 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:40 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:40 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:40 get_data_util:15] Total NaNs:0
+[I 220109 11:04:40 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:40 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:40 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:40 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:40 get_data_util:15] Total NaNs:0
+[I 220109 11:04:40 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:40 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:40 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:40 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:40 get_data_util:15] Total NaNs:0
+[I 220109 11:04:41 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:41 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:41 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:41 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:41 get_data_util:15] Total NaNs:0
+[I 220109 11:04:41 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:41 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:41 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:41 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:41 get_data_util:15] Total NaNs:0
+[I 220109 11:04:41 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:41 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:41 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:41 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:41 get_data_util:15] Total NaNs:0
+[I 220109 11:04:41 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:41 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:41 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:41 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:41 get_data_util:15] Total NaNs:0
+[I 220109 11:04:41 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:41 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:41 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:41 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:41 get_data_util:15] Total NaNs:0
+[I 220109 11:04:42 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:42 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:42 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:42 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:42 get_data_util:15] Total NaNs:0
+[I 220109 11:04:42 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:42 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:42 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:42 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:42 get_data_util:15] Total NaNs:0
+[I 220109 11:04:42 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:42 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:42 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:42 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:42 get_data_util:15] Total NaNs:0
+[I 220109 11:04:42 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:42 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:42 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:42 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:42 get_data_util:15] Total NaNs:0
+[I 220109 11:04:43 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:43 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:43 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:43 get_data_util:14] all_homes    148
+    dtype: int64
+    
+[I 220109 11:04:43 get_data_util:15] Total NaNs:148
+[I 220109 11:04:43 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:43 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:43 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:43 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:43 get_data_util:15] Total NaNs:0
+[I 220109 11:04:43 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:43 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:43 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:43 get_data_util:14] all_homes    261
+    dtype: int64
+    
+[I 220109 11:04:43 get_data_util:15] Total NaNs:261
+[I 220109 11:04:43 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:43 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:43 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:43 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:43 get_data_util:15] Total NaNs:0
+[I 220109 11:04:43 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:43 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:43 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:43 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:43 get_data_util:15] Total NaNs:0
+[I 220109 11:04:44 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:44 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:44 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:44 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:44 get_data_util:15] Total NaNs:0
+[I 220109 11:04:44 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:44 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:44 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:44 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:44 get_data_util:15] Total NaNs:0
+[I 220109 11:04:44 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:44 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:44 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:44 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:44 get_data_util:15] Total NaNs:0
+[I 220109 11:04:44 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:44 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:44 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:44 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:44 get_data_util:15] Total NaNs:0
+[I 220109 11:04:45 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:45 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:45 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:45 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:45 get_data_util:15] Total NaNs:0
+[I 220109 11:04:45 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:45 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:45 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:45 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:45 get_data_util:15] Total NaNs:0
+[I 220109 11:04:45 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:45 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:45 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:45 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:45 get_data_util:15] Total NaNs:0
+[I 220109 11:04:45 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:45 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:45 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:45 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:45 get_data_util:15] Total NaNs:0
+[I 220109 11:04:45 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:45 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:45 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:45 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:45 get_data_util:15] Total NaNs:0
+[I 220109 11:04:46 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:46 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:46 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:46 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:46 get_data_util:15] Total NaNs:0
+[I 220109 11:04:46 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:46 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:46 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:46 get_data_util:14] all_homes    136
+    dtype: int64
+    
+[I 220109 11:04:46 get_data_util:15] Total NaNs:136
+[I 220109 11:04:46 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:46 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:46 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:46 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:46 get_data_util:15] Total NaNs:0
+[I 220109 11:04:46 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:46 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:46 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:46 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:46 get_data_util:15] Total NaNs:0
+[I 220109 11:04:47 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:47 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:47 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:47 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:47 get_data_util:15] Total NaNs:0
+[I 220109 11:04:47 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:47 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:47 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:47 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:47 get_data_util:15] Total NaNs:0
+[I 220109 11:04:47 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:47 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:47 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:47 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:47 get_data_util:15] Total NaNs:0
+[I 220109 11:04:47 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:47 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:47 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:47 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:47 get_data_util:15] Total NaNs:0
+[I 220109 11:04:47 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:47 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:47 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:47 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:47 get_data_util:15] Total NaNs:0
+[I 220109 11:04:48 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:48 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:48 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:48 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:48 get_data_util:15] Total NaNs:0
+[I 220109 11:04:48 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:48 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:48 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:48 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:48 get_data_util:15] Total NaNs:0
+[I 220109 11:04:48 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:48 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:48 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:48 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:48 get_data_util:15] Total NaNs:0
+[I 220109 11:04:48 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:48 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:48 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:48 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:48 get_data_util:15] Total NaNs:0
+[I 220109 11:04:49 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:04:49 get_data_util:12] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:04:49 get_data_util:13] * Column-wise NaNs can be identified as: 
+[I 220109 11:04:49 get_data_util:14] all_homes    0
+    dtype: int64
+    
+[I 220109 11:04:49 get_data_util:15] Total NaNs:0
+[I 220109 11:04:49 get_data:67] Region-wise dataset was saved successfully.
+    
+    
+[I 220109 11:18:24 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:24 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:24 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:24 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:24 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:24 get_data_util:14] Total NaNs:0
+[I 220109 11:18:24 get_data:55] Cleaned dataset for Alabama was saved successfully.
+    
+    
+     
+[I 220109 11:18:24 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:24 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:24 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:24 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:24 get_data_util:14] Total NaNs:0
+[I 220109 11:18:24 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:24 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:24 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:24 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:24 get_data_util:14] Total NaNs:0
+[I 220109 11:18:24 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:24 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:24 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:24 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:24 get_data_util:14] Total NaNs:0
+[I 220109 11:18:25 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:25 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:25 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:25 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:25 get_data_util:14] Total NaNs:0
+[I 220109 11:18:25 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:25 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:25 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:25 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:25 get_data_util:14] Total NaNs:0
+[I 220109 11:18:25 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:25 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:25 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:25 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:25 get_data_util:14] Total NaNs:0
+[I 220109 11:18:25 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:25 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:25 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:25 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:25 get_data_util:14] Total NaNs:0
+[I 220109 11:18:26 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:26 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:26 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:26 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:26 get_data_util:14] Total NaNs:0
+[I 220109 11:18:26 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:26 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:26 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:26 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:26 get_data_util:14] Total NaNs:0
+[I 220109 11:18:26 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:26 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:26 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:26 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:26 get_data_util:14] Total NaNs:0
+[I 220109 11:18:26 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:26 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:26 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:26 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:26 get_data_util:14] Total NaNs:0
+[I 220109 11:18:26 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:26 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:26 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:26 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:26 get_data_util:14] Total NaNs:0
+[I 220109 11:18:27 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:27 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:27 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:27 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:27 get_data_util:14] Total NaNs:0
+[I 220109 11:18:27 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:27 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:27 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:27 get_data_util:13] all_homes    148
+    dtype: int64
+    
+[I 220109 11:18:27 get_data_util:14] Total NaNs:148
+[I 220109 11:18:27 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:27 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:27 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:27 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:27 get_data_util:14] Total NaNs:0
+[I 220109 11:18:27 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:27 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:27 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:27 get_data_util:13] all_homes    261
+    dtype: int64
+    
+[I 220109 11:18:27 get_data_util:14] Total NaNs:261
+[I 220109 11:18:28 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:28 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:28 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:28 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:28 get_data_util:14] Total NaNs:0
+[I 220109 11:18:28 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:28 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:28 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:28 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:28 get_data_util:14] Total NaNs:0
+[I 220109 11:18:28 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:28 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:28 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:28 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:28 get_data_util:14] Total NaNs:0
+[I 220109 11:18:28 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:28 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:28 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:28 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:28 get_data_util:14] Total NaNs:0
+[I 220109 11:18:28 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:28 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:28 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:28 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:28 get_data_util:14] Total NaNs:0
+[I 220109 11:18:29 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:29 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:29 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:29 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:29 get_data_util:14] Total NaNs:0
+[I 220109 11:18:29 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:29 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:29 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:29 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:29 get_data_util:14] Total NaNs:0
+[I 220109 11:18:29 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:29 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:29 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:29 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:29 get_data_util:14] Total NaNs:0
+[I 220109 11:18:29 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:29 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:29 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:29 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:29 get_data_util:14] Total NaNs:0
+[I 220109 11:18:30 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:30 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:30 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:30 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:30 get_data_util:14] Total NaNs:0
+[I 220109 11:18:30 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:30 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:30 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:30 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:30 get_data_util:14] Total NaNs:0
+[I 220109 11:18:30 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:30 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:30 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:30 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:30 get_data_util:14] Total NaNs:0
+[I 220109 11:18:30 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:30 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:30 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:30 get_data_util:13] all_homes    136
+    dtype: int64
+    
+[I 220109 11:18:30 get_data_util:14] Total NaNs:136
+[I 220109 11:18:30 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:30 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:30 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:30 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:30 get_data_util:14] Total NaNs:0
+[I 220109 11:18:31 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:31 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:31 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:31 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:31 get_data_util:14] Total NaNs:0
+[I 220109 11:18:31 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:31 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:31 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:31 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:31 get_data_util:14] Total NaNs:0
+[I 220109 11:18:31 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:31 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:31 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:31 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:31 get_data_util:14] Total NaNs:0
+[I 220109 11:18:31 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:31 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:31 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:31 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:31 get_data_util:14] Total NaNs:0
+[I 220109 11:18:32 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:32 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:32 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:32 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:32 get_data_util:14] Total NaNs:0
+[I 220109 11:18:32 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:32 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:32 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:32 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:32 get_data_util:14] Total NaNs:0
+[I 220109 11:18:32 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:32 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:32 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:32 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:32 get_data_util:14] Total NaNs:0
+[I 220109 11:18:32 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:32 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:32 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:32 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:32 get_data_util:14] Total NaNs:0
+[I 220109 11:18:32 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:32 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:32 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:32 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:32 get_data_util:14] Total NaNs:0
+[I 220109 11:18:33 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:33 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:33 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:33 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:33 get_data_util:14] Total NaNs:0
+[I 220109 11:18:33 utility:83] Dataset with 13212 and 81 features was loaded successfully.
+[I 220109 11:18:33 get_data_util:11] 
+     * Size of dataframe: (261, 1)
+    
+[I 220109 11:18:33 get_data_util:12] * Column-wise NaNs can be identified as: 
+[I 220109 11:18:33 get_data_util:13] all_homes    0
+    dtype: int64
+    
+[I 220109 11:18:33 get_data_util:14] Total NaNs:0
+[I 220109 11:18:33 get_data:62] Region-wise dataset was saved successfully.
+    
+    

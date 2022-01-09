@@ -1,0 +1,61 @@
+[I 220108 16:33:32 utility:83] Dataset with 261 and 1 features was loaded successfully.
+[I 220108 16:33:32 prepare_data_util:32] Results of Dickey Fuller Test
+[I 220108 16:33:32 prepare_data_util:38] Test Statistics                 -1.795120
+    p-value                          0.382887
+    No. of lags used                15.000000
+    Number of observations used    245.000000
+    critical value (1%)             -3.457326
+    critical value (5%)             -2.873410
+    critical value (10%)            -2.573096
+    dtype: float64
+[I 220108 16:35:04 utility:83] Dataset with 261 and 1 features was loaded successfully.
+[I 220108 16:35:04 prepare_data_util:32] Results of Dickey Fuller Test
+[I 220108 16:35:04 prepare_data_util:38] Test Statistics                 -1.795120
+    p-value                          0.382887
+    No. of lags used                15.000000
+    Number of observations used    245.000000
+    critical value (1%)             -3.457326
+    critical value (5%)             -2.873410
+    critical value (10%)            -2.573096
+    dtype: float64
+[I 220108 16:47:29 utility:83] Dataset with 261 and 1 features was loaded successfully.
+[I 220108 16:47:29 prepare_data_util:32] Results of Dickey Fuller Test
+[I 220108 16:47:29 prepare_data_util:38] Test Statistics                 -1.795120
+    p-value                          0.382887
+    No. of lags used                15.000000
+    Number of observations used    245.000000
+    critical value (1%)             -3.457326
+    critical value (5%)             -2.873410
+    critical value (10%)            -2.573096
+    dtype: float64
+[I 220108 17:05:33 utility:83] Dataset with 261 and 1 features was loaded successfully.
+[I 220108 17:08:22 utility:83] Dataset with 261 and 1 features was loaded successfully.
+[I 220108 17:08:22 prepare_data_util:37] Results of Dickey Fuller Test
+[I 220108 17:08:22 prepare_data_util:43] Test Statistics                 -1.795120
+    p-value                          0.382887
+    No. of lags used                15.000000
+    Number of observations used    245.000000
+    critical value (1%)             -3.457326
+    critical value (5%)             -2.873410
+    critical value (10%)            -2.573096
+    dtype: float64
+[I 220109 10:33:46 utility:83] Dataset with 261 and 1 features was loaded successfully.
+[I 220109 10:33:46 prepare_data_util:36] Results of Dickey Fuller Test
+[I 220109 10:33:46 prepare_data_util:42] Test Statistics                 -1.795120
+    p-value                          0.382887
+    No. of lags used                15.000000
+    Number of observations used    245.000000
+    critical value (1%)             -3.457326
+    critical value (5%)             -2.873410
+    critical value (10%)            -2.573096
+    dtype: float64
+[I 220109 11:04:52 utility:83] Dataset with 261 and 1 features was loaded successfully.
+[I 220109 11:04:52 prepare_data_util:36] Results of Dickey Fuller Test
+[I 220109 11:04:52 prepare_data_util:42] Test Statistics                 -1.795120
+    p-value                          0.382887
+    No. of lags used                15.000000
+    Number of observations used    245.000000
+    critical value (1%)             -3.457326
+    critical value (5%)             -2.873410
+    critical value (10%)            -2.573096
+    dtype: float64

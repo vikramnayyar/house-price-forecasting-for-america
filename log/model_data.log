@@ -1,0 +1,142 @@
+[I 220108 16:27:24 utility:83] Dataset with 231 and 1 features was loaded successfully.
+[I 220108 16:27:24 utility:83] Dataset with 27 and 1 features was loaded successfully.
+[I 220108 16:29:33 utility:83] Dataset with 231 and 1 features was loaded successfully.
+[I 220108 16:29:33 utility:83] Dataset with 27 and 1 features was loaded successfully.
+[I 220108 16:50:24 utility:83] Dataset with 231 and 1 features was loaded successfully.
+[I 220108 16:50:24 utility:83] Dataset with 27 and 1 features was loaded successfully.
+[I 220108 16:50:41 utility:83] Dataset with 231 and 1 features was loaded successfully.
+[I 220108 16:50:41 utility:83] Dataset with 27 and 1 features was loaded successfully.
+[I 220108 16:51:22 utility:83] Dataset with 231 and 1 features was loaded successfully.
+[I 220108 16:51:22 utility:83] Dataset with 27 and 1 features was loaded successfully.
+[I 220108 16:52:42 utility:83] Dataset with 231 and 1 features was loaded successfully.
+[I 220108 16:52:42 utility:83] Dataset with 27 and 1 features was loaded successfully.
+[I 220109 10:36:03 utility:83] Dataset with 231 and 1 features was loaded successfully.
+[I 220109 10:36:03 utility:83] Dataset with 27 and 1 features was loaded successfully.
+[I 220109 11:01:47 utility:83] Dataset with 231 and 1 features was loaded successfully.
+[I 220109 11:01:47 utility:83] Dataset with 27 and 1 features was loaded successfully.
+[I 220109 11:01:49 model_data_util:45]                                SARIMAX Results                                
+    ==============================================================================
+    Dep. Variable:                      y   No. Observations:                  231
+    Model:               SARIMAX(3, 1, 0)   Log Likelihood                 987.514
+    Date:                Sun, 09 Jan 2022   AIC                          -1965.029
+    Time:                        11:01:49   BIC                          -1947.838
+    Sample:                             0   HQIC                         -1958.094
+                                    - 231                                         
+    Covariance Type:                  opg                                         
+    ==============================================================================
+                     coef    std err          z      P>|z|      [0.025      0.975]
+    ------------------------------------------------------------------------------
+    intercept      0.0004      0.000      1.316      0.188      -0.000       0.001
+    ar.L1          1.1533      0.026     44.284      0.000       1.102       1.204
+    ar.L2         -0.8334      0.045    -18.330      0.000      -0.922      -0.744
+    ar.L3          0.4650      0.029     15.902      0.000       0.408       0.522
+    sigma2       1.08e-05   3.17e-07     34.104      0.000    1.02e-05    1.14e-05
+    ===================================================================================
+    Ljung-Box (L1) (Q):                   0.01   Jarque-Bera (JB):              9550.02
+    Prob(Q):                              0.94   Prob(JB):                         0.00
+    Heteroskedasticity (H):               6.48   Skew:                            -3.25
+    Prob(H) (two-sided):                  0.00   Kurtosis:                        33.89
+    ===================================================================================
+    
+    Warnings:
+    [1] Covariance matrix calculated using the outer product of gradients (complex-step).
+[I 220109 11:02:05 utility:83] Dataset with 231 and 1 features was loaded successfully.
+[I 220109 11:02:05 utility:83] Dataset with 27 and 1 features was loaded successfully.
+[I 220109 11:02:07 model_data_util:45]                                SARIMAX Results                                
+    ==============================================================================
+    Dep. Variable:                      y   No. Observations:                  231
+    Model:               SARIMAX(3, 1, 0)   Log Likelihood                 987.514
+    Date:                Sun, 09 Jan 2022   AIC                          -1965.029
+    Time:                        11:02:07   BIC                          -1947.838
+    Sample:                             0   HQIC                         -1958.094
+                                    - 231                                         
+    Covariance Type:                  opg                                         
+    ==============================================================================
+                     coef    std err          z      P>|z|      [0.025      0.975]
+    ------------------------------------------------------------------------------
+    intercept      0.0004      0.000      1.316      0.188      -0.000       0.001
+    ar.L1          1.1533      0.026     44.284      0.000       1.102       1.204
+    ar.L2         -0.8334      0.045    -18.330      0.000      -0.922      -0.744
+    ar.L3          0.4650      0.029     15.902      0.000       0.408       0.522
+    sigma2       1.08e-05   3.17e-07     34.104      0.000    1.02e-05    1.14e-05
+    ===================================================================================
+    Ljung-Box (L1) (Q):                   0.01   Jarque-Bera (JB):              9550.02
+    Prob(Q):                              0.94   Prob(JB):                         0.00
+    Heteroskedasticity (H):               6.48   Skew:                            -3.25
+    Prob(H) (two-sided):                  0.00   Kurtosis:                        33.89
+    ===================================================================================
+    
+    Warnings:
+    [1] Covariance matrix calculated using the outer product of gradients (complex-step).
+[I 220109 11:02:08 model_data:51]                              ARIMA Model Results                              
+    ==============================================================================
+    Dep. Variable:            D.all_homes   No. Observations:                  230
+    Model:                 ARIMA(0, 1, 2)   Log Likelihood                 985.841
+    Method:                       css-mle   S.D. of innovations              0.003
+    Date:                Sun, 09 Jan 2022   AIC                          -1963.682
+    Time:                        11:02:08   BIC                          -1949.929
+    Sample:                    08-31-1996   HQIC                         -1958.134
+                             - 09-30-2015                                         
+    =====================================================================================
+                            coef    std err          z      P>|z|      [0.025      0.975]
+    -------------------------------------------------------------------------------------
+    const                 0.0018      0.001      2.813      0.005       0.001       0.003
+    ma.L1.D.all_homes     1.2953      0.063     20.403      0.000       1.171       1.420
+    ma.L2.D.all_homes     0.6178      0.057     10.890      0.000       0.507       0.729
+                                        Roots                                    
+    =============================================================================
+                      Real          Imaginary           Modulus         Frequency
+    -----------------------------------------------------------------------------
+    MA.1           -1.0483           -0.7209j            1.2722           -0.4041
+    MA.2           -1.0483           +0.7209j            1.2722            0.4041
+    -----------------------------------------------------------------------------
+[I 220109 11:04:55 utility:83] Dataset with 231 and 1 features was loaded successfully.
+[I 220109 11:04:55 utility:83] Dataset with 27 and 1 features was loaded successfully.
+[I 220109 11:04:56 model_data_util:45]                                SARIMAX Results                                
+    ==============================================================================
+    Dep. Variable:                      y   No. Observations:                  231
+    Model:               SARIMAX(3, 1, 0)   Log Likelihood                 987.514
+    Date:                Sun, 09 Jan 2022   AIC                          -1965.029
+    Time:                        11:04:56   BIC                          -1947.838
+    Sample:                             0   HQIC                         -1958.094
+                                    - 231                                         
+    Covariance Type:                  opg                                         
+    ==============================================================================
+                     coef    std err          z      P>|z|      [0.025      0.975]
+    ------------------------------------------------------------------------------
+    intercept      0.0004      0.000      1.316      0.188      -0.000       0.001
+    ar.L1          1.1533      0.026     44.284      0.000       1.102       1.204
+    ar.L2         -0.8334      0.045    -18.330      0.000      -0.922      -0.744
+    ar.L3          0.4650      0.029     15.902      0.000       0.408       0.522
+    sigma2       1.08e-05   3.17e-07     34.104      0.000    1.02e-05    1.14e-05
+    ===================================================================================
+    Ljung-Box (L1) (Q):                   0.01   Jarque-Bera (JB):              9550.02
+    Prob(Q):                              0.94   Prob(JB):                         0.00
+    Heteroskedasticity (H):               6.48   Skew:                            -3.25
+    Prob(H) (two-sided):                  0.00   Kurtosis:                        33.89
+    ===================================================================================
+    
+    Warnings:
+    [1] Covariance matrix calculated using the outer product of gradients (complex-step).
+[I 220109 11:04:57 model_data:51]                              ARIMA Model Results                              
+    ==============================================================================
+    Dep. Variable:            D.all_homes   No. Observations:                  230
+    Model:                 ARIMA(0, 1, 2)   Log Likelihood                 985.841
+    Method:                       css-mle   S.D. of innovations              0.003
+    Date:                Sun, 09 Jan 2022   AIC                          -1963.682
+    Time:                        11:04:57   BIC                          -1949.929
+    Sample:                    08-31-1996   HQIC                         -1958.134
+                             - 09-30-2015                                         
+    =====================================================================================
+                            coef    std err          z      P>|z|      [0.025      0.975]
+    -------------------------------------------------------------------------------------
+    const                 0.0018      0.001      2.813      0.005       0.001       0.003
+    ma.L1.D.all_homes     1.2953      0.063     20.403      0.000       1.171       1.420
+    ma.L2.D.all_homes     0.6178      0.057     10.890      0.000       0.507       0.729
+                                        Roots                                    
+    =============================================================================
+                      Real          Imaginary           Modulus         Frequency
+    -----------------------------------------------------------------------------
+    MA.1           -1.0483           -0.7209j            1.2722           -0.4041
+    MA.2           -1.0483           +0.7209j            1.2722            0.4041
+    -----------------------------------------------------------------------------

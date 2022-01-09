@@ -36,7 +36,7 @@ region_names = ['Alabama', 'Arizona', 'Arkansas', 'California', 'Colorado',
        'NewJersey', 'NewMexico', 'NorthCarolina', 'Ohio',
        'Oklahoma', 'Oregon', 'Pennsylvania', 'RhodeIsland',
        'SouthCarolina', 'Tennessee', 'Texas', 'Utah', 'Virginia',
-       'Washington', 'WestVirginia']    # NewYork, Kansas, Louisiana is corrupted
+       'Washington', 'WestVirginia']    
 
 
 

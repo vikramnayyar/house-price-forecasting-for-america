@@ -22,7 +22,7 @@ from statsmodels.tsa.arima_model import ARIMA
 
 st.title('House Price Forecasting Application')
 st.write("Identify the regions; that offer largest property rise.")
-st.write("HAPPY INVESTING !!")
+st.write("LIVE PREMIUM !!")
 st.write("")
 
 

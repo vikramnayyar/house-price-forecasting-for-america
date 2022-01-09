@@ -67,8 +67,12 @@ def save_response_content(response, destination):
         for chunk in response.iter_content(CHUNK_SIZE):
             if chunk: # filter out keep-alive new chunks
                 f.write(chunk)
+               
+def download_dataset(file_id):
+    destination = pathlib.Path.cwd().parent.joinpath('data/data.csv')
+    download_file_from_google_drive(file_id, destination)
+    
                 
-
 ####################################
 #-------------Read Data-------------
 ####################################

@@ -142,8 +142,8 @@ upper_series = np.exp(upper_series)
 
 # Plot
 fig = plt.figure(figsize=(10,7), dpi=100)
-plt.plot(df_close, color = 'blue', label='Actual Stock Price')
-plt.plot(fc_series, color = 'orange',label='Predicted Stock Price')
+plt.plot(df_close, color = 'blue', label='Existing Price')
+plt.plot(fc_series, color = 'orange',label='Forecast')
 plt.fill_between(lower_series.index, lower_series, upper_series, 
                  color='k', alpha=.10)
 plt.title('House Price Forecast of {}'.format(selected_region))

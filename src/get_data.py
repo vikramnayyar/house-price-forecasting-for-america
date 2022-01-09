@@ -10,10 +10,19 @@ required for the application to accept user inputs.
 """
 
 from logzero import logger
-from utility import create_log, parse_config, read_data
+from utility import create_log, download_dataset, parse_config, read_data
 from get_data_util import analyze_data
 
 create_log("get_data.log")  # Creating log file
+
+config_path = "../config/config.yaml"   
+config = parse_config(config_path)   # read config file
+
+# downloading dataset
+logger.info("Downloading dataset")
+file_id = config["get_data"]["download_id"]
+download_dataset(file_id)    # downloads data from gdrive (File size is larger than git limit)
+logger.info("Dataset downloaded successfully")
 
 
 
@@ -21,8 +30,6 @@ create_log("get_data.log")  # Creating log file
 #-------------------Reading Data------------------
 ##################################################
 
-config_path = "../config/config.yaml"   
-config = parse_config(config_path)   # read config file
 data_path = config["get_data"]["data"]   # read dataset
 df = read_data(data_path)
         

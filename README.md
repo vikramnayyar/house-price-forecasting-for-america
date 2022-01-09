@@ -1,10 +1,10 @@
 # House Price Forecasting for America
 
 ## Demo
-The application is deployed in Heroku. The app is available in the link https://predict-bank-marketing.herokuapp.com/
+The application is deployed in Heroku. The app is available in the link https://house-price-forecasting.herokuapp.com/.
 
 ## Introduction
-An app is developed for bank marketing campaigns; that target customers interested in making term deposits. App is based on 16 inputs that predict whether a customer will deposit or not? The app was trained using <b>sklearn</b> models and is developed in <b>Streamlit</b>. 
+An app is developed for forecasting house prices in America. App forecasts the prices for **40** American regions. The app was trained using <b>ARIMA</b> model and is developed in <b>Streamlit</b>. 
 
 ## Dataset
 The dataset consists of actual information obtained from a marketing campaign of a Portuguese banking institution. The bank launched this campaign to increase the term deposits. Often; each customer was contacted more than once, to determine as a depositor or non-depositor.

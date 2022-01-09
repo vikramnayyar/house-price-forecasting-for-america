@@ -68,7 +68,9 @@ def read_data(data_path):
     except:
         print('Dataset was not loaded. Please ensure that dataset is provided and is named correctly.')
 
-df = read_data('../data/regions/{}.csv'.format(selected_region)) 
+# df = read_data('../data/regions/{}.csv'.format(selected_region)) 
+df = read_data('data/regions/{}.csv'.format(selected_region))  # used for heroku
+
 df_close = df.iloc[:, 0]
 
 ##########################################################

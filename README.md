@@ -9,7 +9,7 @@ An app is developed for forecasting house prices in America. App forecasts the p
 ## Dataset
 The dataset consists of actual house prices obtained from Zillow. It is a popular online real-estate and rental marketplace of America.
 
-The dataset is avalailable in link: https://www.zillow.com/research/data/. It consists of **5 years** (monthly) house prices of <b>24</b> cities.
+The dataset is avalailable in link: https://www.zillow.com/research/data/. It consists of **5 years** (monthly) house prices of <b>40</b> cities.
 
 ## Problem Statement
 Numerous factors affect the rise of a property in a region. With the growth of real estate industry; many new regions have emerged. Therefore, there are several opportunities and manifold speculations and verdicts. Identifying a privileged property has become challenging.

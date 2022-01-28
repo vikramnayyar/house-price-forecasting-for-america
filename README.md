@@ -9,7 +9,7 @@ An app is developed for forecasting house prices in America. App forecasts the p
 ## Dataset
 The dataset consists of actual house prices obtained from Zillow. It is a popular online real-estate and rental marketplace of America. It shares vital information about homes, real estate, mortgages, and home improvement. 
 
-The dataset was acquired from Zillow. It is avalailable in link: https://www.zillow.com/research/data/. The dataset consists of **5 years** (monthly) house prices of <b>24</b> cities.
+The dataset is avalailable in link: https://www.zillow.com/research/data/. It consists of **5 years** (monthly) house prices of <b>24</b> cities.
 
 ## Problem Statement
 Marketing a product or a service is very challenging. Identifying the right customer is vital for the marketing team. This can significantly reduce the resources and time. Furthermore, this allows the team to position the product correctly. Unfortunately, finding the right customer can be exhaustive and complicated. There are many features to consider and huge data to analyze. Thus conventionally; the marketing team relies on experience of the marketing experts and feedback of team. 

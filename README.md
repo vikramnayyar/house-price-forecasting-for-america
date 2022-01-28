@@ -7,7 +7,7 @@ The application is deployed in Heroku. The app is available in the link https://
 An app is developed for forecasting house prices in America. App forecasts the prices for **40** American regions. The app was trained using <b>ARIMA</b> model and is developed in <b>Streamlit</b>. 
 
 ## Dataset
-The dataset consists of actual house prices obtained from Zillow. It is a popular online real-estate and rental marketplace of America. It shares vital information about homes, real estate, mortgages, and home improvement. 
+The dataset consists of actual house prices obtained from Zillow. It is a popular; American online real-estate and rental marketplace of America.
 
 The dataset is avalailable in link: https://www.zillow.com/research/data/. It consists of **5 years** (monthly) house prices of <b>24</b> cities.
 

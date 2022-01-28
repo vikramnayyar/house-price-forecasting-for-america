@@ -7,9 +7,9 @@ The application is deployed in Heroku. The app is available in the link https://
 An app is developed for forecasting house prices in America. App forecasts the prices for **40** American regions. The app was trained using <b>ARIMA</b> model and is developed in <b>Streamlit</b>. 
 
 ## Dataset
-The dataset consists of actual information obtained from a marketing campaign of a Portuguese banking institution. The bank launched this campaign to increase the term deposits. Often; each customer was contacted more than once, to determine as a depositor or non-depositor.
+The dataset consists of actual house prices obtained from Zillow. It is a popular online real-estate and rental marketplace of America. It shares vital information about homes, real estate, mortgages, and home improvement. 
 
-The dataset was acquired from UCI (University of California, Irvine) repository. It is avalailable in link: https://archive.ics.uci.edu/ml/datasets/bank+marketing). The dataset consists of <b>11162</b> rows and <b>15</b> features.    
+The dataset was acquired from Zillow. It is avalailable in link: https://www.zillow.com/research/data/. The dataset consists of **5 years** (monthly) house prices of <b>24</b> cities.
 
 ## Problem Statement
 Marketing a product or a service is very challenging. Identifying the right customer is vital for the marketing team. This can significantly reduce the resources and time. Furthermore, this allows the team to position the product correctly. Unfortunately, finding the right customer can be exhaustive and complicated. There are many features to consider and huge data to analyze. Thus conventionally; the marketing team relies on experience of the marketing experts and feedback of team. 

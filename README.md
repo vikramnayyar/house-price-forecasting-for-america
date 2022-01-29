@@ -50,21 +50,19 @@ An app forecasting the house prices, provides an intuitive means for identifying
 ## Technical Description
 The main project scripts are in the **"src"** directory. Exceptionally, **"app.py"** is in app directory. The main constituting scripts are as follows
 
-* **get_data.py:** The script reads the data from **bank.csv** file located in data directory. The dataset is analyzed, cleaned and saved as **"cleaned_data.csv"** in **data** directory. 
+* **get_data.py:** The script downloads the dataset using google drive link. The file **data.csv** downloads in data directory. The dataset is read, analyzed, cleaned and saved as **"cleaned_data.csv"** in **data** directory. Futhermore, region-wise time-series data is extracted from the dataset and respectively saved in region subdirectory (withing data directory).  
 
 * **data_analysis.py:** This script obtains various visualizations of the dataset. These visualizations are saved in the **"Visualization"** directory. 
 
-* **prepare_data.py:** The script converts the required features to **categorical** variables. Subsequent outliers are determined using Grubb's Test. These outliers are removed and cleaned dataset is saved as **"prepared_data.csv"**.   
+* **prepare_data.py:** The script checks the stationarity, accordingly removes the trend and splits train and test data. Train data and test data are respectively saved as **"train_data.csv"** and **"test_data.csv"** (in the data directory).
 
-* **split_data.py:** The cleaned dataset is split using stratified sampling. This ensures the fair splitting. The train and test sets are obtained after dataset splitting. Labels are separated from train and test sets and saved as **"train_labels.csv"** and **"test_labels.csv"**. Train data and test data are respectively saved as **"train_set.csv"** and **"test_set.csv"**.
+* **model_data.py:** The script determines ARIMA parameters; and trains ARIMA; on train set. Using the model; forecast is obtained for the test set. After validating the forecast, trained ARIMA model is saved as **"model.pkl"**. 
 
-* **model_data.py:** Various data science models are trained on train set. Accuracy of all the models is verified using test set. Henceforth, the best model is selected. The feature selection of the best model is optimized to increase the accuracy to **87.1 %** (approx). This model is saved as **"model.pkl"**. 
-
-* **app.py:** The script develops a Streamlit app; that accepts 16 user inputs. These inputs are transformed and fed to **model.pkl**. The model's prediction is displayed in the application. 
+* **app.py:** The script develops a Streamlit app; that accepts **40** American regions. Also, user selects the forecast duration (in years). The inputs are transformed and fed to **model.pkl**. Accordingly, the model's forecast is displayed in the application. 
  
 * **run_project.py:** The script runs all the project scripts (discussed in this section) sequentially. Therefore, entire project is executed with this script.  
 
-**get_data_util.py**, **data_analysis_util.py**, **prepare_data_util.py**, **split_data_util.py**, **model_data_util.py** and **utility.py** declare vital functions that are required by respective scripts. 
+**get_data_util.py**, **data_analysis_util.py**, **prepare_data_util.py**, **model_data_util.py** and **utility.py** declare vital functions that are required by respective scripts. 
 
 ## Directory Structure
 
@@ -73,31 +71,30 @@ The main project scripts are in the **"src"** directory. Exceptionally, **"app.p
 |  ├── app.py                        # Application script
 ├── config                           # Configuration files
 |  ├── config.yaml                   # Configuration file  
-├── data                             # Data files ()   
-|  ├── bank.csv                      # Bank customer dataset 
+├── data                             # Data files 
+|  ├── data.csv                      # Original dataset, that downloads from google drive (Not present in repository)
 |  ├── clean_data.csv                # Cleaned dataset 
 |  ├── prepared_data.csv             # Prepared dataset 
-|  ├── train_set.csv                 # Train data
-|  ├── test_set.csv                  # Test data
-|  ├── train_label.csv               # Train labels
-|  ├── test_set.csv                  # Test labels
-├── dict                             # Dictionary Files
-|  ├── locations_dict.pkl            # Locations dictionary
-|  ├── rest_type_dict.pkl            # Resaturant type dictionary
+|  ├── train_data.csv                # Train data
+|  ├── test_data.csv                 # Test data
+|  |  ├── region                     # Subdirectory that contains region-wise time-series data
 ├── log                              # Log files
 |  ├── get_data.log                  # "get_data.py" script logs
 |  ├── data_analysis.log             # "data_analysis.py" script logs
 |  ├── prepare_data.log              # "prepare_data.py" script logs 
-|  ├── split_data.log                # "split_data.py" script logs 
 |  ├── model_data.log                # "model_data.py" script logs 
 ├── model                            # Model Files
 |  ├── model.pkl                     # Saved model
 ├── src                              # Main project scripts 
-|  ├── get_data.log                  # Dataset acquistion and cleaning script
-|  ├── data_analysis.log             # Dataset analysis and visualization script
-|  ├── prepare_data.log              # Dataset preperation script
-|  ├── split_data.log                # Dataset splitting script  
-|  ├── model_data.log                # Dataset modelling script
+|  ├── get_data.py                   # Dataset acquistion and cleaning script
+|  ├── get_data_util.py              # script declaring utility functions for get_data.py 
+|  ├── data_analysis.py              # Dataset analysis and visualization script
+|  ├── data_analysis_util.py         # script declaring utility functions for data_analysis.py
+|  ├── prepare_data.py               # Dataset preperation script
+|  ├── prepare_data_util.py          # script declaring utility functions for prepare_data.py
+|  ├── model_data.py                 # Dataset modelling script
+|  ├── model_data_util.py            # script declaring utility functions for model_data.py
+|  ├── util.py                       # script declaring general utility functions
 ├── visualizations                   # Dataset visualizations
 |  ├── age_vs_deposit.png            # Age vs deposit figure
 |  ├── bal_vs_deposit.png            # Balance vs deposit figure

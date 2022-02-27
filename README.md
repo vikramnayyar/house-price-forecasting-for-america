@@ -92,28 +92,21 @@ The main project scripts are in the **"src"** directory. Exceptionally, **"app.p
 |  ├── prepare_data_util.py          # script declaring utility functions for prepare_data.py
 |  ├── model_data.py                 # Dataset modelling script
 |  ├── model_data_util.py            # script declaring utility functions for model_data.py
-|  ├── utility.py                       # script declaring general utility functions
+|  ├── utility.py                    # script declaring general utility functions
 ├── visualizations                   # Dataset visualizations
-|  ├── age_vs_deposit.png            # Age vs deposit figure
-|  ├── bal_vs_deposit.png            # Balance vs deposit figure
-|  ├── education_vs_deposit.png      # Education vs deposit figure
-|  ├── job_vs_deposit.png            # Job vs deposit figure 
-|  ├── marital_vs_deposit.png        # Marital vs deposit figure
-|  ├── dataset_balance.png           # Dataset balance figure
-|  ├── correlation_heatmap.png       # Correalation heatmap of features
-|  ├── feature_importance.png        # Feature importance of best model
-|  ├── cm_etc.png                    # Confusion matrix of ExtraTreesClassifier
-|  ├── cm_gbc.png                    # Confusion matrix of GradientBoostClassifier
-|  ├── cm_lgbm.png                   # Confusion matrix of LightGBMClassifier
-|  ├── cm_rfc.png                    # Confusion matrix of RandomForestClassifier
-|  ├── cm_xgb.png                    # Confusion matrix of XGBClassifier  
-|  ├── cm_cbc.png                    # Confusion matrix of CatBoostClassifier
-|  ├── cm_optimized_cbc.png          # Confusion matrix of optimized CatBoostClassifier
-├── requirements.txt                 # Required libraries
-├── Procfile                         # Required for Heroku deployment 
-├── setup.sh                         # Required for Heroku deployment
+|  ├── arima_diagnosis.png           # Age vs deposit figure
+|  ├── decompose_series.png          # Balance vs deposit figure
+|  ├── house_prices.png              # Education vs deposit figure
+|  ├── moving_average.png            # Job vs deposit figure 
+|  ├── price_density.png        # Marital vs deposit figure
+|  ├── price_forecast.png           # Dataset balance figure
+|  ├── stationarity_test.png       # Correalation heatmap of features
+|  ├── train-test-series.png        # Feature importance of best model
 ├── LICENSE                          # License
+├── Procfile                         # Required for Heroku deployment 
 ├── README.md                        # Repository description
+├── requirements.txt                 # Required libraries
+├── setup.sh                         # Required for Heroku deployment
 
 ```
 
@@ -126,7 +119,7 @@ pip install -r requirements.txt
 ```
 
 ## Run Project
-As discussed in **Technical Aspect** section, "src" and “app” directory possess the main scripts. 
+As discussed in **Technical Aspect** section, "src" and “app” directory respectively possess the main scripts application scripts. 
 
 Running the following command in the "src" directory executes the entire project  
 ```bash
@@ -136,7 +129,7 @@ Alternatively, a project script can be individually executed using the general s
 ```bash
 python3 script.py
 ```
-Here “script.py” represents any python script. 
+Here “script.py” represents any project script. 
 
 Exceptionally, application file "app.py" runs using command 
 ```bash

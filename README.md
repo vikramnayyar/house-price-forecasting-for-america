@@ -1,7 +1,8 @@
 # House Price Forecasting for America
 
 ## Demo
-The application is deployed in Heroku. The app is available in the link https://house-price-forecasting.herokuapp.com/.
+Application Demo: https://youtu.be/5d6bAhl6Gyk
+Launch App: https://house-price-forecasting.herokuapp.com/.
 
 ## Introduction
 An app is developed for forecasting house prices in America. App forecasts the prices for **40** American regions. The app was trained using <b>ARIMA</b> model and is developed in <b>Streamlit</b>. 

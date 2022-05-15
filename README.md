@@ -1,7 +1,9 @@
 # House Price Forecasting for America
 
 ## Demo
+
 Application Demo: https://youtu.be/5d6bAhl6Gyk
+
 Launch App: https://house-price-forecasting.herokuapp.com/.
 
 ## Introduction
